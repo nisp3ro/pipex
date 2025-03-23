@@ -1,4 +1,4 @@
-# Pipex
+# 🚰 Pipex
 
 Pipex is a project that replicates basic shell piping and redirection functionalities. The goal is to recreate the behavior of a shell pipeline by connecting commands through pipes and managing file redirection. The project includes both a mandatory part and bonus features that enhance its capabilities.
 
